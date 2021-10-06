@@ -14,17 +14,17 @@ const Main : React.FC = () =>{
                     <Menu theme="dark" mode="horizontal">
                         <Menu.Item key="1">
                             Play
-                            <Link to="/" />
+                            <Link to="/NSG-Demo/" />
                         </Menu.Item>
                         <Menu.Item key="2">
                             Create
-                            <Link to="/create" />
+                            <Link to="/NSG-Demo/create" />
                         </Menu.Item>
                     </Menu>
                 </Header>
                 <Content style={{ padding: '0 50px' }}>
-                    <Route exact path="/" component={Play} />
-                    <Route exact path="/create" component={Create} />
+                    <Route exact path="/NSG-Demo/" component={Play} />
+                    <Route exact path="/NSG-Demo/create" component={Create} />
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>Game Demo ©2021 Created Lim Kar Aik</Footer>
             </Layout>
