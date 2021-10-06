@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/limkaraik.github.io/NSG-sample-server/static/css/main.8fb0ade9.chunk.css",
-    "main.js": "/limkaraik.github.io/NSG-sample-server/static/js/main.36d679fd.chunk.js",
-    "main.js.map": "/limkaraik.github.io/NSG-sample-server/static/js/main.36d679fd.chunk.js.map",
-    "runtime-main.js": "/limkaraik.github.io/NSG-sample-server/static/js/runtime-main.9838cba2.js",
-    "runtime-main.js.map": "/limkaraik.github.io/NSG-sample-server/static/js/runtime-main.9838cba2.js.map",
-    "static/css/2.786ae0dd.chunk.css": "/limkaraik.github.io/NSG-sample-server/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.0c407561.chunk.js": "/limkaraik.github.io/NSG-sample-server/static/js/2.0c407561.chunk.js",
-    "static/js/2.0c407561.chunk.js.map": "/limkaraik.github.io/NSG-sample-server/static/js/2.0c407561.chunk.js.map",
-    "static/js/3.f6e19e04.chunk.js": "/limkaraik.github.io/NSG-sample-server/static/js/3.f6e19e04.chunk.js",
-    "static/js/3.f6e19e04.chunk.js.map": "/limkaraik.github.io/NSG-sample-server/static/js/3.f6e19e04.chunk.js.map",
-    "index.html": "/limkaraik.github.io/NSG-sample-server/index.html",
-    "static/css/2.786ae0dd.chunk.css.map": "/limkaraik.github.io/NSG-sample-server/static/css/2.786ae0dd.chunk.css.map",
-    "static/css/main.8fb0ade9.chunk.css.map": "/limkaraik.github.io/NSG-sample-server/static/css/main.8fb0ade9.chunk.css.map",
-    "static/js/2.0c407561.chunk.js.LICENSE.txt": "/limkaraik.github.io/NSG-sample-server/static/js/2.0c407561.chunk.js.LICENSE.txt"
+    "main.css": "/NSG-Demo/static/css/main.8fb0ade9.chunk.css",
+    "main.js": "/NSG-Demo/static/js/main.70e28a4f.chunk.js",
+    "main.js.map": "/NSG-Demo/static/js/main.70e28a4f.chunk.js.map",
+    "runtime-main.js": "/NSG-Demo/static/js/runtime-main.5966ac85.js",
+    "runtime-main.js.map": "/NSG-Demo/static/js/runtime-main.5966ac85.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/NSG-Demo/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.b5e50efb.chunk.js": "/NSG-Demo/static/js/2.b5e50efb.chunk.js",
+    "static/js/2.b5e50efb.chunk.js.map": "/NSG-Demo/static/js/2.b5e50efb.chunk.js.map",
+    "static/js/3.f6e19e04.chunk.js": "/NSG-Demo/static/js/3.f6e19e04.chunk.js",
+    "static/js/3.f6e19e04.chunk.js.map": "/NSG-Demo/static/js/3.f6e19e04.chunk.js.map",
+    "index.html": "/NSG-Demo/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/NSG-Demo/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.8fb0ade9.chunk.css.map": "/NSG-Demo/static/css/main.8fb0ade9.chunk.css.map",
+    "static/js/2.b5e50efb.chunk.js.LICENSE.txt": "/NSG-Demo/static/js/2.b5e50efb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9838cba2.js",
+    "static/js/runtime-main.5966ac85.js",
     "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.0c407561.chunk.js",
+    "static/js/2.b5e50efb.chunk.js",
     "static/css/main.8fb0ade9.chunk.css",
-    "static/js/main.36d679fd.chunk.js"
+    "static/js/main.70e28a4f.chunk.js"
   ]
 }
