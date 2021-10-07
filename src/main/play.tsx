@@ -271,6 +271,8 @@ const Create : React.FC = () =>{
                 <ul>
                     <li>Upload the json file you get when create graph and render graph</li>
                     <li>Input the server URL. Server template can be found in the link below.</li>
+                    <li>If your server is hosted on local machine, and your url is localhost, please disable "block insecure private network requests" if you are using chrome via "chrome://flags/#block-insecure-private-network-requests"</li>
+                    <li>In addition, please add "http://" before "localhost" if your url is localhost. E.g. "http://localhost:8000"</li>
                     <li>Click Play to start playing</li>
                     <li>Double click on the map to select the next node the move</li>
                     <li>Click on the node to view the node number based on the json graph</li>
